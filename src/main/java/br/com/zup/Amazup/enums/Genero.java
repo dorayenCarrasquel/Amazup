@@ -1,10 +1,10 @@
 package br.com.zup.Amazup.enums;
 
 public enum Genero {
-    FICÇÃOLITERÁRIA,
-    NÃOFICCAO,
+    FICÇÃO_LITERÁRIA,
+    NÃO_FICCAO,
     SUSPENSE,
-    FICCAOCIENTÍFICA,
+    FICCAO_CIENTÍFICA,
     FANTASIA,
     HORROR,
     POESIA,
